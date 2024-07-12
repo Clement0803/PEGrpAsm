@@ -67,12 +67,38 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CartPage.aspx" />
+    <Content Include="CartPageStyle.css" />
+    <Content Include="ContactUs.aspx" />
     <Content Include="Home.aspx" />
+    <Content Include="Images\Apple.jpg" />
+    <Content Include="Images\Banana.jpg" />
+    <Content Include="Images\Grape.jpg" />
+    <Content Include="Images\Icon.jpg" />
+    <Content Include="Images\Jambu.jpg" />
+    <Content Include="Images\Mandarins.jpg" />
+    <Content Include="Images\Rambutan1.jpg" />
+    <Content Include="Images\starfruit.jpg" />
+    <Content Include="Images\Strawberry.jpg" />
     <Content Include="Products.aspx" />
     <Content Include="Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CartPage.aspx.cs">
+      <DependentUpon>CartPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CartPage.aspx.designer.cs">
+      <DependentUpon>CartPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
