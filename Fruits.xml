@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fruits>
+	<fruit>
+		<fruit_id>f01</fruit_id>
+		<name>Apple</name>
+		<img_path>~/Images/Apple.jpg</img_path>
+		<price>10</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f02</fruit_id>
+		<name>Banana</name>
+		<img_path>~/Images/Banana.jpg</img_path>
+		<price>10</price>
+	</fruit>
+	<!--<fruit>
+		<fruit_id></fruit_id>
+		<name></name>
+		<img_path></img_path>
+		<price></price>
+	</fruit>
+	<fruit>
+		<fruit_id></fruit_id>
+		<name></name>
+		<img_path></img_path>
+		<price></price>
+	</fruit>
+	<fruit>
+		<fruit_id></fruit_id>
+		<name></name>
+		<img_path></img_path>
+		<price></price>
+	</fruit>
+	<fruit>
+		<fruit_id></fruit_id>
+		<name></name>
+		<img_path></img_path>
+		<price></price>
+	</fruit>
+	<fruit>
+		<fruit_id></fruit_id>
+		<name></name>
+		<img_path></img_path>
+		<price></price>
+	</fruit>
+	<fruit>
+		<fruit_id></fruit_id>
+		<name></name>
+		<img_path></img_path>
+		<price></price>
+	</fruit>-->
+
+</fruits>

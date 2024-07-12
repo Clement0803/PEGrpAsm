@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContactFormSubmissions>
+  <Submission>
+    <FirstName>Clement</FirstName>
+    <LastName>Wong</LastName>
+    <Company>Xiamen University Malaysia</Company>
+    <Email>clementwong02@icloud.com</Email>
+    <Country>+60</Country>
+    <PhoneNumber>+60107716607</PhoneNumber>
+    <Message>Hello World</Message>
+  </Submission>
+  <Submission>
+    <FirstName>Clement</FirstName>
+    <LastName>Wong</LastName>
+    <Company>Xiamen University Malaysia</Company>
+    <Email>clementwong02@icloud.com</Email>
+    <Country>+60</Country>
+    <PhoneNumber>+60107716607</PhoneNumber>
+    <Message>yo</Message>
+  </Submission>
+</ContactFormSubmissions>

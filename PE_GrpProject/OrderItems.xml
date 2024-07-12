@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<orderitems>
+  <orderitem>
+    <fruit_id>f01</fruit_id>
+    <quantity>1</quantity>
+  </orderitem>
+  <orderitem>
+    <fruit_id>f03</fruit_id>
+    <quantity>1</quantity>
+  </orderitem>
+  <orderitem>
+    <fruit_id>f01</fruit_id>
+    <quantity>1</quantity>
+  </orderitem>
+</orderitems>

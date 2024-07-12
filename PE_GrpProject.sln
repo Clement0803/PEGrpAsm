@@ -5,11 +5,6 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_GrpProject", "PE_GrpProject\PE_GrpProject.csproj", "{F60742D5-986D-434B-A3C5-51FE742DEBC8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4D5AD89-9295-4F53-BA99-0FBA70EB0E09}"
-	ProjectSection(SolutionItems) = preProject
-		XMLFile1.xml = XMLFile1.xml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

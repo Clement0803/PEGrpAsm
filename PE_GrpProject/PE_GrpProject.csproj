@@ -69,7 +69,10 @@
   <ItemGroup>
     <Content Include="CartPage.aspx" />
     <Content Include="CartPageStyle.css" />
+    <Content Include="ContactFormSubmissions.xml" />
     <Content Include="ContactUs.aspx" />
+    <Content Include="Feedbacks.xml" />
+    <Content Include="Fruits.xml" />
     <Content Include="Home.aspx" />
     <Content Include="Images\Apple.jpg" />
     <Content Include="Images\Banana.jpg" />
@@ -80,6 +83,7 @@
     <Content Include="Images\Rambutan1.jpg" />
     <Content Include="Images\starfruit.jpg" />
     <Content Include="Images\Strawberry.jpg" />
+    <Content Include="OrderItems.xml" />
     <Content Include="Products.aspx" />
     <Content Include="Styles.css" />
     <Content Include="Web.config" />
@@ -108,6 +112,7 @@
     </Compile>
     <Compile Include="MasterSite.Master.cs">
       <DependentUpon>MasterSite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="MasterSite.Master.designer.cs">
       <DependentUpon>MasterSite.Master</DependentUpon>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fruits>
+	<fruit>
+		<fruit_id>f01</fruit_id>
+		<name>Apple</name>
+		<img_path>/	Images/Apple.jpg</img_path>
+		<price>10</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f02</fruit_id>
+		<name>Banana</name>
+		<img_path>/Images/Banana.jpg</img_path>
+		<price>12</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f03</fruit_id>
+		<name>Grape</name>
+		<img_path>/Images/Grape.jpg</img_path>
+		<price>14</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f04</fruit_id>
+		<name>Jambu</name>
+		<img_path>/Images/Jambu.jpg</img_path>
+		<price>10</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f05</fruit_id>
+		<name>Mandarins</name>
+		<img_path>/Images/Mandarins.jpg</img_path>
+		<price>16</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f06</fruit_id>
+		<name>Rambutan1</name>
+		<img_path>/Images/Rambutan1.jpg</img_path>
+		<price>20</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f07</fruit_id>
+		<name>Starfruit</name>
+		<img_path>/Images/starfruit.jpg</img_path>
+		<price>22</price>
+	</fruit>
+	<fruit>
+		<fruit_id>f08</fruit_id>
+		<name>Strawberry</name>
+		<img_path>/Images/Strawberry.jpg</img_path>
+		<price></price>
+	</fruit>
+
+</fruits>
