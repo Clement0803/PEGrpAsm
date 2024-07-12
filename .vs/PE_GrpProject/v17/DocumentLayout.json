@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe_group_project\\pegrpasm\\pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A4D5AD89-9295-4F53-BA99-0FBA70EB0E09}|Solution Items{A4D5AD89-9295-4F53-BA99-0FBA70EB0E09}|C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\XMLFile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4D5AD89-9295-4F53-BA99-0FBA70EB0E09}|Solution Items{A4D5AD89-9295-4F53-BA99-0FBA70EB0E09}|solutionrelative:XMLFile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\users\\user\\onedrive\\documents\\github\\pegrpasm\\pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe_group_project\\pegrpasm\\pe_grpproject\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\CartPageStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:PE_GrpProject\\CartPageStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe_group_project\\pegrpasm\\pe_grpproject\\cartpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\cartpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\ContactUs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:PE_GrpProject\\ContactUs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe_group_project\\pegrpasm\\pe_grpproject\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\CartPage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:PE_GrpProject\\CartPage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe_group_project\\pegrpasm\\pe_grpproject\\cartpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\cartpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\Products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:PE_GrpProject\\Products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe_group_project\\pegrpasm\\pe_grpproject\\mastersite.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\mastersite.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\MasterSite.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F60742D5-986D-434B-A3C5-51FE742DEBC8}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:PE_GrpProject\\MasterSite.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +38,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "XMLFile1.xml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\XMLFile1.xml",
+              "RelativeToolTip": "XMLFile1.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-12T06:11:16.5Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CartPageStyle.css",
-              "DocumentMoniker": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\CartPageStyle.css",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\CartPageStyle.css",
               "RelativeDocumentMoniker": "PE_GrpProject\\CartPageStyle.css",
-              "ToolTip": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\CartPageStyle.css",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\CartPageStyle.css",
               "RelativeToolTip": "PE_GrpProject\\CartPageStyle.css",
               "ViewState": "AQIAAFEAAAAAAAAAAAAiwG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-12T03:43:05.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T03:43:05.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ContactUs.aspx",
-              "DocumentMoniker": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\ContactUs.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\ContactUs.aspx",
               "RelativeDocumentMoniker": "PE_GrpProject\\ContactUs.aspx",
-              "ToolTip": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\ContactUs.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\ContactUs.aspx",
               "RelativeToolTip": "PE_GrpProject\\ContactUs.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-12T03:42:44.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T03:42:44.801Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CartPage.aspx",
-              "DocumentMoniker": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\CartPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\CartPage.aspx",
               "RelativeDocumentMoniker": "PE_GrpProject\\CartPage.aspx",
-              "ToolTip": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\CartPage.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\CartPage.aspx",
               "RelativeToolTip": "PE_GrpProject\\CartPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-12T03:42:16.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T03:42:16.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\Products.aspx",
+              "RelativeDocumentMoniker": "PE_GrpProject\\Products.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\Products.aspx",
+              "RelativeToolTip": "PE_GrpProject\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-12T03:41:15.771Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Products.aspx",
-              "DocumentMoniker": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\Products.aspx",
-              "RelativeDocumentMoniker": "PE_GrpProject\\Products.aspx",
-              "ToolTip": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\Products.aspx",
-              "RelativeToolTip": "PE_GrpProject\\Products.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-12T03:41:15.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\Home.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\Home.aspx",
               "RelativeDocumentMoniker": "PE_GrpProject\\Home.aspx",
-              "ToolTip": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\Home.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\Home.aspx",
               "RelativeToolTip": "PE_GrpProject\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -103,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MasterSite.Master",
-              "DocumentMoniker": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\MasterSite.Master",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\MasterSite.Master",
               "RelativeDocumentMoniker": "PE_GrpProject\\MasterSite.Master",
-              "ToolTip": "C:\\GitHub\\PE_GROUP_PROJECT\\PEGrpAsm\\PE_GrpProject\\MasterSite.Master",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\PEGrpAsm\\PE_GrpProject\\MasterSite.Master",
               "RelativeToolTip": "PE_GrpProject\\MasterSite.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
